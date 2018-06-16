@@ -45,6 +45,7 @@ the main method in "Race" will take the 3 cars you've constructed and race them 
 using the static method "System.out.println" to let the user know the winner of each race.
 
 Remember these concepts when creating your program:
+
 <b>Main method</b>: a special type of method that the java virtual machine understands how to "run". This method
 can be run directly from within eclipse by pressing the green play button.
 
